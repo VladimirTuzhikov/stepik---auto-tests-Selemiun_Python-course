@@ -1,5 +1,6 @@
 from selenium import webdriver
 import time
+import unittest
 
 
 # function to register on the specified URL
